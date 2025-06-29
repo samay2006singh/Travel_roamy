@@ -67,9 +67,9 @@ const Contact = () => {
         {/* Contact Info */}
         <div style={{ flex: '1', minWidth: '250px' }}>
           <h2>Contact Information</h2>
-          <p><strong>📍 Address:</strong> Najafgarh</p>
-          <p><strong>📞 Phone:</strong> 8287988828</p>
-          <p><strong>✉ Email:</strong> nd4614490@gmail.com</p>
+          <p><strong>📍 Address:</strong> dwarka</p>
+          <p><strong>📞 Phone:</strong> 8058368865</p>
+          <p><strong>✉ Email:</strong> samayjarwal180@gmail.com</p>
           <p><strong>🕒 Hours:</strong> Mon - Fri: 9:00 AM - 6:00 PM</p>
         </div>
       </div>
